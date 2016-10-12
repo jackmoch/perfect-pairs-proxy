@@ -1,0 +1,23 @@
+{
+  "name": "perfect-pairs-proxy",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackmoch/perfect-pairs-proxy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackmoch/perfect-pairs-proxy/issues"
+  },
+  "homepage": "https://github.com/jackmoch/perfect-pairs-proxy#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
